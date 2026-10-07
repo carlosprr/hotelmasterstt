@@ -1,0 +1,55 @@
+* {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
+header {
+    background-color: #1d4e89;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+
+nav a {
+    color: black;
+    margin: 10px;
+    text-decoration: none;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+#fotos {
+    background-color: #1d4e89;
+}
+
+.fotos img {
+    width: 270px;
+    height: 200px;
+    margin: 10px;
+}
+
+#reserva {
+    background-color: #1d4e89;
+}
+
+input, select, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: none;
+}
+
+footer {
+    background-color: #333;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
